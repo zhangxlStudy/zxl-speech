@@ -1,0 +1,14 @@
+{
+  "name": "mul_speech_recogn",
+  "version": "1.0.0",
+  "description": "\"腾讯实时语音识别\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "[\"speech\"]"
+  ],
+  "author": "zxl",
+  "license": "ISC"
+}
